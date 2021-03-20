@@ -1,6 +1,6 @@
 # pido
 
-## This tool is very simple to download files from URL
+## This is a simple tool to download files from the URL
 
 ## how to run:
 	ruby pido.rb
